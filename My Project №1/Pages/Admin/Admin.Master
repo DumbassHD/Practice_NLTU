@@ -1,0 +1,25 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Admin.Master.cs" 
+    Inherits="MyProject1.Pages.Admin.Admin" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+    <title>Адмін-панель</title>
+    <link rel="stylesheet" href="~/Content/AdminStyles.css" />
+</head>
+<body>
+    <form id="form1" runat="server">
+        <h1>GameStore: адмін-панель</h1>
+        <div class="adminContent">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">    // Тут буде вміст з ВебФорми
+
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+    <div id="nav">
+        <a href="<%= OrdersUrl %>">Керування замовленнями</a>
+        <a href="<%= GamesUrl %>">Керування каталогом ігор</a>
+    </div>
+</body>
+</html>

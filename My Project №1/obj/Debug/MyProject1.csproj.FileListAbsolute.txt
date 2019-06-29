@@ -1,0 +1,17 @@
+C:\Users\User\Documents\Visual Studio 2012\Projects\ASP .NET Projects\My Project №1\My Project №1\bin\My Project №1.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\ASP .NET Projects\My Project №1\My Project №1\bin\My Project №1.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\ASP .NET Projects\My Project №1\My Project №1\bin\EntityFramework.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\ASP .NET Projects\My Project №1\My Project №1\bin\EntityFramework.SqlServer.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\ASP .NET Projects\My Project №1\My Project №1\bin\EntityFramework.xml
+C:\Users\User\Documents\Visual Studio 2012\Projects\ASP .NET Projects\My Project №1\My Project №1\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Documents\Visual Studio 2012\Projects\ASP .NET Projects\My Project №1\My Project №1\obj\Debug\MyProject1.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2012\Projects\ASP .NET Projects\My Project №1\My Project №1\obj\Debug\My Project №1.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\ASP .NET Projects\My Project №1\My Project №1\obj\Debug\My Project №1.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\ASP .NET Projects\My Project №1\My Project №1\bin\Antlr3.Runtime.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\ASP .NET Projects\My Project №1\My Project №1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\ASP .NET Projects\My Project №1\My Project №1\bin\Newtonsoft.Json.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\ASP .NET Projects\My Project №1\My Project №1\bin\System.Web.Optimization.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\ASP .NET Projects\My Project №1\My Project №1\bin\WebGrease.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\ASP .NET Projects\My Project №1\My Project №1\bin\Antlr3.Runtime.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\ASP .NET Projects\My Project №1\My Project №1\bin\Newtonsoft.Json.xml
+C:\Users\User\Documents\Visual Studio 2012\Projects\ASP .NET Projects\My Project №1\My Project №1\bin\System.Web.Optimization.xml
